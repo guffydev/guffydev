@@ -3,7 +3,7 @@
 </h1> -->
 
 ## Hey! 👋
-I'm Petya, a 15 years old developer from Ukraine.
+I'm Petya, a 15 years old back-end developer from Ukraine.
 
 ## Bio
 - **2007** - Born in Ivano-Frankivsk, Ukraine.
@@ -11,8 +11,8 @@ I'm Petya, a 15 years old developer from Ukraine.
 - **2020** - First freelance order (website development on WordPress, link lost)
 - **22 Sep, 2022** - Grabbed my head, started normal coding training
 
-## Skills
-- 👨‍💻 Python
+<!--## Skills
+- 👨‍💻 -->
 
 ## Contact
 - [@guffydev](https://instagram.com/guffydev) on Instagram
