@@ -3,7 +3,7 @@
 </h1> -->
 
 ## Hey! 👋
-I'm Petya, a 15 years old back-end developer from Ukraine.
+I'm Petya, a 15 years old developer from Ukraine.
 
 ## Bio
 - **2007** - Born in Ivano-Frankivsk, Ukraine.
